@@ -1,0 +1,183 @@
+director,duration,film_name,genre,rank,star,year
+Frank Darabont,142 min,The Shawshank Redemption,Drama,1,9.3,1994
+Francis Ford Coppola,175 min,The Godfather,"Crime, Drama",2,9.2,1972
+Christopher Nolan,152 min,The Dark Knight,"Action, Crime, Drama",3,9.1,2008
+Peter Jackson,201 min,The Lord of the Rings: The Return of the King,"Action, Adventure, Drama",4,9.0,2003
+Steven Spielberg,195 min,Schindler's List,"Biography, Drama, History",5,9.0,1993
+Francis Ford Coppola,202 min,The Godfather: Part II,"Crime, Drama",6,9.0,1974
+Sidney Lumet,96 min,12 Angry Men,"Crime, Drama",7,9.0,1957
+Peter Jackson,178 min,The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama",8,8.9,2001
+Quentin Tarantino,154 min,Pulp Fiction,"Crime, Drama",9,8.9,1994
+Peter Jackson,179 min,The Lord of the Rings: The Two Towers,"Action, Adventure, Drama",10,8.8,2002
+David Fincher,139 min,Fight Club,Drama,11,8.8,1999
+Robert Zemeckis,142 min,Forrest Gump,"Drama, Romance",12,8.8,1994
+Christopher Nolan,169 min,Interstellar,"Adventure, Drama, Sci-Fi",13,8.7,2014
+Martin Scorsese,145 min,Goodfellas,"Biography, Crime, Drama",14,8.7,1990
+Milos Forman,133 min,One Flew Over the Cuckoo's Nest,Drama,15,8.7,1975
+Akira Kurosawa,207 min,Seven Samurai,"Action, Drama",16,8.7,1954
+Frank Capra,130 min,It's a Wonderful Life,"Drama, Family, Fantasy",17,8.7,1946
+Fernando Meirelles,130 min,City of God,"Crime, Drama",18,8.6,2002
+Roman Polanski,150 min,The Pianist,"Biography, Drama, Music",19,8.6,2002
+Steven Spielberg,169 min,Saving Private Ryan,"Drama, War",20,8.6,1998
+Frank Darabont,189 min,The Green Mile,"Crime, Drama, Fantasy",21,8.6,1999
+Roberto Benigni,116 min,Life Is Beautiful,"Comedy, Drama, Romance",22,8.6,1997
+David Fincher,127 min,Se7en,"Crime, Drama, Mystery",23,8.6,1995
+Luc Besson,110 min,Léon: The Professional,"Action, Crime, Drama",24,8.6,1994
+Jonathan Demme,118 min,The Silence of the Lambs,"Crime, Drama, Thriller",25,8.6,1991
+Masaki Kobayashi,133 min,Hara-Kiri,"Action, Drama, Mystery",26,8.6,1962
+Bong Joon Ho,132 min,Parasite,"Comedy, Drama, Horror",27,8.5,2019
+Damien Chazelle,106 min,Whiplash,"Drama, Music",28,8.5,2014
+Quentin Tarantino,165 min,Django Unchained,"Drama, Western",29,8.5,2012
+Olivier Nakache,112 min,The Intouchables,"Biography, Comedy, Drama",30,8.5,2011
+Rajkumar Hirani,170 min,3 Idiots,"Comedy, Drama",31,8.5,2009
+Christopher Nolan,130 min,The Prestige,"Drama, Mystery, Thriller",32,8.5,2006
+Martin Scorsese,151 min,The Departed,"Crime, Drama, Thriller",33,8.5,2006
+Ridley Scott,155 min,Gladiator,"Action, Adventure, Drama",34,8.5,2000
+Tony Kaye,119 min,American History X,Drama,35,8.5,1998
+Bryan Singer,106 min,The Usual Suspects,"Crime, Drama, Mystery",36,8.5,1995
+Roger Allers,88 min,The Lion King,"Animation, Adventure, Drama",37,8.5,1994
+Giuseppe Tornatore,155 min,Cinema Paradiso,"Drama, Romance",38,8.5,1988
+Isao Takahata,89 min,Grave of the Fireflies,"Animation, Drama, War",39,8.5,1988
+Francis Ford Coppola,147 min,Apocalypse Now,"Drama, Mystery, War",40,8.5,1979
+Michael Curtiz,102 min,Casablanca,"Drama, Romance, War",41,8.5,1942
+Charles Chaplin,87 min,Modern Times,"Comedy, Drama, Romance",42,8.5,1936
+Charles Chaplin,87 min,City Lights,"Comedy, Drama, Romance",43,8.5,1931
+Thomas Kail,160 min,Hamilton,"Biography, Drama, History",44,8.4,2020
+Nadine Labaki,126 min,Capernaum,Drama,45,8.4,2018
+Todd Phillips,122 min,Joker,"Crime, Drama, Thriller",46,8.4,2019
+Makoto Shinkai,106 min,Your Name.,"Animation, Drama, Fantasy",47,8.4,2016
+Nitesh Tiwari,161 min,Dangal,"Action, Biography, Drama",48,8.4,2016
+Anthony Russo,181 min,Avengers: Endgame,"Action, Adventure, Drama",49,8.4,2019
+Christopher Nolan,164 min,The Dark Knight Rises,"Action, Crime, Drama",50,8.4,2012
+Aamir Khan,165 min,Like Stars on Earth,"Drama, Family",51,8.4,2007
+Florian Henckel von Donnersmarck,137 min,The Lives of Others,"Drama, Mystery, Thriller",52,8.4,2006
+Park Chan-wook,120 min,Oldboy,"Action, Drama, Mystery",53,8.4,2003
+Sam Mendes,122 min,American Beauty,Drama,54,8.4,1999
+Mel Gibson,178 min,Braveheart,"Biography, Drama, History",55,8.4,1995
+Elem Klimov,142 min,Come and See,"Drama, Thriller, War",56,8.4,1985
+Sergio Leone,229 min,Once Upon a Time in America,"Crime, Drama",57,8.4,1984
+Milos Forman,160 min,Amadeus,"Biography, Drama, Music",58,8.4,1984
+Wolfgang Petersen,149 min,The Boat,"Drama, War",59,8.4,1981
+Stanley Kubrick,146 min,The Shining,"Drama, Horror",60,8.4,1980
+Akira Kurosawa,143 min,High and Low,"Crime, Drama, Mystery",61,8.4,1963
+Billy Wilder,116 min,Witness for the Prosecution,"Crime, Drama, Mystery",62,8.4,1957
+Stanley Kubrick,88 min,Paths of Glory,"Drama, War",63,8.4,1957
+Billy Wilder,110 min,Sunset Blvd.,"Drama, Film-Noir",64,8.4,1950
+Charles Chaplin,125 min,The Great Dictator,"Comedy, Drama, War",65,8.4,1940
+Sam Mendes,119 min,1917,"Action, Drama, War",66,8.3,2019
+Thomas Vinterberg,115 min,The Hunt,Drama,67,8.3,2012
+Matt Reeves,176 min,The Batman,"Action, Crime, Drama",68,8.3,2022
+Asghar Farhadi,123 min,A Separation,Drama,69,8.3,2011
+Denis Villeneuve,131 min,Incendies,"Drama, Mystery, War",70,8.3,2010
+Pete Docter,96 min,Up,"Animation, Adventure, Comedy",71,8.3,2009
+Florian Zeller,97 min,The Father,"Drama, Mystery",72,8.3,2020
+Cagan Irmak,112 min,My Father and My Son,"Drama, Family",73,8.3,2005
+Christopher Nolan,140 min,Batman Begins,"Action, Crime, Drama",74,8.3,2005
+Quentin Tarantino,153 min,Inglourious Basterds,"Adventure, Drama, War",75,8.3,2009
+Michel Gondry,108 min,Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi",76,8.3,2004
+Darren Aronofsky,102 min,Requiem for a Dream,Drama,77,8.3,2000
+Curtis Hanson,138 min,L.A. Confidential,"Crime, Drama, Mystery",78,8.3,1997
+Gus Van Sant,126 min,Good Will Hunting,"Drama, Romance",79,8.3,1997
+Michael Mann,170 min,Heat,"Action, Crime, Drama",80,8.3,1995
+Quentin Tarantino,99 min,Reservoir Dogs,"Crime, Drama, Thriller",81,8.3,1992
+Stanley Kubrick,116 min,Full Metal Jacket,"Drama, War",82,8.3,1987
+Brian De Palma,170 min,Scarface,"Crime, Drama",83,8.3,1983
+Martin Scorsese,114 min,Taxi Driver,"Crime, Drama",84,8.3,1976
+George Roy Hill,129 min,The Sting,"Comedy, Crime, Drama",85,8.3,1973
+Robert Mulligan,129 min,To Kill a Mockingbird,"Crime, Drama",86,8.3,1962
+David Lean,218 min,Lawrence of Arabia,"Adventure, Biography, Drama",87,8.3,1962
+Stanley Kramer,179 min,Judgment at Nuremberg,"Drama, War",88,8.3,1961
+Billy Wilder,125 min,The Apartment,"Comedy, Drama, Romance",89,8.3,1960
+Satyajit Ray,125 min,Pather Panchali,Drama,90,8.3,1955
+Akira Kurosawa,143 min,Ikiru,Drama,91,8.3,1952
+Joseph L. Mankiewicz,138 min,All About Eve,Drama,92,8.3,1950
+Vittorio De Sica,89 min,Bicycle Thieves,Drama,93,8.3,1948
+Billy Wilder,107 min,Double Indemnity,"Crime, Drama, Film-Noir",94,8.3,1944
+Orson Welles,119 min,Citizen Kane,"Drama, Mystery",95,8.3,1941
+Fritz Lang,153 min,Metropolis,"Drama, Sci-Fi",96,8.3,1927
+Charles Chaplin,68 min,The Kid,"Comedy, Drama, Family",97,8.3,1921
+Peter Farrelly,130 min,Green Book,"Biography, Comedy, Drama",98,8.2,2018
+Pete Docter,95 min,Inside Out,"Animation, Adventure, Comedy",99,8.2,2015
+Juan José Campanella,129 min,The Secret in Their Eyes,"Drama, Mystery, Romance",100,8.2,2009
+Gavin O'Connor,140 min,Warrior,"Action, Drama, Sport",101,8.2,2011
+Martin Scorsese,180 min,The Wolf of Wall Street,"Biography, Comedy, Crime",102,8.2,2013
+Ethan Coen,122 min,No Country for Old Men,"Crime, Drama, Thriller",103,8.2,2007
+Paul Thomas Anderson,158 min,There Will Be Blood,Drama,104,8.2,2007
+Guillermo del Toro,118 min,Pan's Labyrinth,"Drama, Fantasy, War",105,8.2,2006
+James McTeigue,132 min,V for Vendetta,"Action, Drama, Sci-Fi",106,8.2,2005
+Oliver Hirschbiegel,156 min,Downfall,"Biography, Drama, History",107,8.2,2004
+Ron Howard,135 min,A Beautiful Mind,"Biography, Drama",108,8.2,2001
+Quentin Tarantino,111 min,Kill Bill: Vol. 1,"Action, Crime, Drama",109,8.2,2003
+M. Night Shyamalan,107 min,The Sixth Sense,"Drama, Mystery, Thriller",110,8.2,1999
+Peter Weir,103 min,The Truman Show,"Comedy, Drama",111,8.2,1998
+Majid Majidi,89 min,Children of Heaven,"Drama, Family, Sport",112,8.2,1997
+Danny Boyle,93 min,Trainspotting,Drama,113,8.2,1996
+Martin Scorsese,178 min,Casino,"Crime, Drama",114,8.2,1995
+Clint Eastwood,130 min,Unforgiven,"Drama, Western",115,8.2,1992
+Akira Kurosawa,162 min,Ran,"Action, Drama, War",116,8.2,1985
+Martin Scorsese,129 min,Raging Bull,"Biography, Drama, Sport",117,8.2,1980
+David Lynch,124 min,The Elephant Man,"Biography, Drama",118,8.2,1980
+Akira Kurosawa,142 min,Dersu Uzala,"Adventure, Biography, Drama",119,8.2,1975
+Roman Polanski,130 min,Chinatown,"Drama, Mystery, Thriller",120,8.2,1974
+John Sturges,172 min,The Great Escape,"Adventure, Drama, History",121,8.2,1963
+Akira Kurosawa,110 min,Yojimbo,"Action, Drama, Thriller",122,8.2,1961
+Ingmar Bergman,91 min,Wild Strawberries,"Drama, Romance",123,8.2,1957
+David Lean,161 min,The Bridge on the River Kwai,"Adventure, Drama, War",124,8.2,1957
+Yasujirô Ozu,136 min,Tokyo Story,Drama,125,8.2,1953
+Henri-Georges Clouzot,131 min,The Wages of Fear,"Adventure, Drama, Thriller",126,8.2,1953
+Akira Kurosawa,88 min,Rashomon,"Crime, Drama, Mystery",127,8.2,1950
+John Huston,126 min,The Treasure of the Sierra Madre,"Adventure, Drama, Western",128,8.2,1948
+Victor Fleming,238 min,Gone with the Wind,"Drama, History, Romance",129,8.2,1939
+Carl Theodor Dreyer,114 min,The Passion of Joan of Arc,"Biography, Drama, History",130,8.2,1928
+Clyde Bruckman,67 min,The General,"Action, Adventure, Comedy",131,8.2,1926
+Charles Chaplin,95 min,The Gold Rush,"Adventure, Comedy, Drama",132,8.2,1925
+Martin McDonagh,115 min,"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",133,8.1,2017
+Park Chan-wook,145 min,The Handmaiden,"Drama, Romance, Thriller",134,8.1,2016
+James Mangold,137 min,Logan,"Action, Drama, Sci-Fi",135,8.1,2017
+Lenny Abrahamson,118 min,Room,"Drama, Thriller",136,8.1,2015
+Damián Szifron,122 min,Wild Tales,"Comedy, Drama, Thriller",137,8.1,2014
+David Fincher,149 min,Gone Girl,"Drama, Mystery, Thriller",138,8.1,2014
+Mel Gibson,139 min,Hacksaw Ridge,"Biography, Drama, History",139,8.1,2016
+Steve McQueen,134 min,12 Years a Slave,"Biography, Drama, History",140,8.1,2013
+Ron Howard,123 min,Rush,"Action, Biography, Drama",141,8.1,2013
+James Mangold,152 min,Ford v Ferrari,"Action, Biography, Drama",142,8.1,2019
+Tom McCarthy,129 min,Spotlight,"Biography, Crime, Drama",143,8.1,2015
+Tate Taylor,146 min,The Help,Drama,144,8.1,2011
+Denis Villeneuve,153 min,Prisoners,"Crime, Drama, Mystery",145,8.1,2013
+Clint Eastwood,116 min,Gran Torino,Drama,146,8.1,2008
+Denis Villeneuve,155 min,Dune,"Action, Adventure, Drama",147,8.1,2021
+Lasse Hallström,93 min,Hachi: A Dog's Tale,"Biography, Drama, Family",148,8.1,2009
+Adam Elliot,92 min,Mary and Max,"Animation, Comedy, Drama",149,8.1,2009
+Sean Penn,148 min,Into the Wild,"Adventure, Biography, Drama",150,8.1,2007
+Clint Eastwood,132 min,Million Dollar Baby,"Drama, Sport",151,8.1,2004
+Terry George,121 min,Hotel Rwanda,"Biography, Drama, History",152,8.1,2004
+Richard Linklater,80 min,Before Sunset,"Drama, Romance",153,8.1,2004
+Bong Joon Ho,132 min,Memories of Murder,"Crime, Drama, Mystery",154,8.1,2003
+Steven Spielberg,141 min,Catch Me If You Can,"Biography, Crime, Drama",155,8.1,2002
+Alejandro G. Iñárritu,154 min,Amores perros,"Drama, Thriller",156,8.1,2000
+Mathieu Kassovitz,98 min,La Haine,"Crime, Drama",157,8.1,1995
+Richard Linklater,101 min,Before Sunrise,"Drama, Romance",158,8.1,1995
+Jim Sheridan,133 min,In the Name of the Father,"Biography, Crime, Drama",159,8.1,1993
+Harold Ramis,101 min,Groundhog Day,"Comedy, Drama, Fantasy",160,8.1,1993
+Kevin Costner,181 min,Dances with Wolves,"Adventure, Drama, Western",161,8.1,1990
+Peter Weir,128 min,Dead Poets Society,"Comedy, Drama",162,8.1,1989
+Rob Reiner,89 min,Stand by Me,"Adventure, Drama",163,8.1,1986
+Oliver Stone,120 min,Platoon,"Drama, War",164,8.1,1986
+Richard Attenborough,191 min,Gandhi,"Biography, Drama",165,8.1,1982
+Ridley Scott,117 min,Blade Runner,"Action, Drama, Sci-Fi",166,8.1,1982
+Michael Cimino,183 min,The Deer Hunter,"Drama, War",167,8.1,1978
+John G. Avildsen,120 min,Rocky,"Drama, Sport",168,8.1,1976
+Sidney Lumet,121 min,Network,Drama,169,8.1,1976
+Stanley Kubrick,185 min,Barry Lyndon,"Adventure, Drama, History",170,8.1,1975
+Stuart Rosenberg,127 min,Cool Hand Luke,"Crime, Drama",171,8.1,1967
+Ingmar Bergman,83 min,Persona,"Drama, Thriller",172,8.1,1966
+Robert Wise,172 min,The Sound of Music,"Biography, Drama, Family",173,8.1,1965
+Gillo Pontecorvo,121 min,The Battle of Algiers,"Drama, War",174,8.1,1966
+François Truffaut,99 min,The 400 Blows,"Crime, Drama",175,8.1,1959
+William Wyler,212 min,Ben-Hur,"Adventure, Drama, History",176,8.1,1959
+Ingmar Bergman,96 min,The Seventh Seal,"Drama, Fantasy, History",177,8.1,1957
+Elia Kazan,108 min,On the Waterfront,"Crime, Drama, Thriller",178,8.1,1954
+William Wyler,170 min,The Best Years of Our Lives,"Drama, Romance, War",179,8.1,1946
+Alfred Hitchcock,130 min,Rebecca,"Drama, Film-Noir, Mystery",180,8.1,1940
+John Ford,129 min,The Grapes of Wrath,Drama,181,8.1,1940
+Frank Capra,129 min,Mr. Smith Goes to Washington,"Comedy, Drama",182,8.1,1939
